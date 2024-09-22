@@ -14,6 +14,8 @@ Taking the popular example of Prof.Bertlmann's mismatched socks to illustrate qu
 
 # Quantum Entanglement:
 Quantum entanglement is one of the most profound yet confusing aspects of quantum mechanics. When two particles are in entangled quantum states, measuring a property of one of the particles reveals information about the other particle without even needing to check. 
+
+
 ![Entangled socks](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entangled_socks.jpg)
 
 If I have a pair of socks- one left and one right and I send my friend Bob a sock, we can call this pair of socks entangled. Without checking what sock I have, if Bob checks the sock I sent him- he automatically knows about my sock. If Bob received a left sock, I must have a right sock and vice versa.
