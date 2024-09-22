@@ -1,4 +1,4 @@
-# Quantum-entanglement-game-space-socks
+# Quantum Entanglement Game
 # Game Name: Space Socks
 # Genre: Educational
 # Description:
@@ -28,4 +28,7 @@ If I have a pair of socks- one left and one right and I send my friend Bob a soc
 * 3 pairs each of red- and yellow-colored socks rotating consecutively around the earth at a speed matching the time taken to run the teleportation circuit 
 
 By building a proper circuit and playing the game well, you can help Alice send a message to Bob maintaining quantum entanglement. And boom- now you too understand quantum circuits, quantum entanglement and essentially how the quantum world works. Maybe we’re one step closer to flipping the saying from **“It’s simple, it’s not quantum mechanics”** to **“It’s as simple as quantum mechanics”**.
-
+# How to Play:
+**Objective:**
+The primary objective is to help Alice send her message to Bob by selecting the appropriate quantum circuit (lines), adjusting angles and distances, and choosing the correct quantum gate to maintain the entanglement. Success is measured by delivering the message without disruption.
+![The First Screen](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entangled_socks.jpg)
