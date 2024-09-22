@@ -65,7 +65,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 4. **Quantum Entanglement**: Success is determined by whether or not Alice’s message remains entangled as it travels to Bob. If the message successfully reaches Bob while maintaining its quantum properties, the player wins the round.
 
 ## Step-by-Step Guide:
-1. **Launch the Game**: Start the game by running the quantum_circuits.py script.
+1. **Launch the Game**: Download the zip file, Quantum Entanglement Game.zip from this repository. . Start the game by running the main.py script.
 
 2. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
 
@@ -81,6 +81,12 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
  ![Game Scene](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/game%20scene.png)
 
+
+## Demo of the Game
+
+![Demo Video](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entangled_socks.jpg)
+
+
 ## Game Strategy and Tips:
 1. **Gate Selection**: Pay close attention to the color of Alice's sock (message). The correct quantum gate is crucial to maintaining the message's entanglement.
 
@@ -92,6 +98,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 
 ## How Do I Win: 
+
 1. **Perfectly Match the Socks**: Carefully observe the color of the socks passing by and initiate the teleportation only when Bob is correctly positioned with a sock of the same color. The game is won when Alice’s message successfully reaches Bob with a matching sock, maintaining quantum entanglement. A message stating "Quantum Entanglement Success!" will confirm your victory.
 
 2. **Master Entanglement**: To ensure a flawless transfer, precisely manage the entanglement swapping process by strategically selecting the optimal path for message transmission. Your choices will directly impact the success of the transfer.
