@@ -25,8 +25,11 @@ If I have a pair of socks- one left and one right and I send my friend Bob a soc
 ## The game involves:
 
 * The **transmitter** (Alice) placed at a stationary point called the point of reference to understand relative speed of satellite rotation and entanglement.
+  
 * The **teleporter** (A satellite) made to rotate around the earth at a speed that equals the optimum time taken to run a quantum **teleportation circuit** on the accessible quantum processors and simulators (viz, IBM's qasm).
+  
 * The **receiver** (Bob) made to rotate around the earth in a spaceship around the earth at a speed that equals the optimum time taken to run a quantum teleportation circuit.
+  
 * 3 pairs each of red- and yellow-colored socks rotating consecutively around the earth at a speed matching the time taken to run the **teleportation circuit**. 
 
 By building a proper circuit and playing the game well, you can help Alice send a message to Bob maintaining quantum entanglement. And boom- now you too understand quantum circuits, quantum entanglement and essentially how the quantum world works. Maybe we’re one step closer to flipping the saying from **“It’s simple, it’s not quantum mechanics”** to **“It’s as simple as quantum mechanics”**.
@@ -40,6 +43,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 ### Controls:
 * **Build your Teleportation Circuit**: Teleport your message with the colour of sock that you intend to let Bob know about, as shown in the demo video. Hit on the green **Run** button, and voila, you can proceed once you succeed. This is the start of your quantum communication action.
+  
 * **Select your Line**: Successful building of the quantum circuit will activate the sock you have chosen, and also the **Line**, **Angle** and **Distance** boxes.Choose the line that Alice's message will travel along. You can select a line either by typing the line number (e.g., Line 1, Line 2) or clicking on the line directly using the mouse.
 
 ![Line Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Line%20activation.png)
