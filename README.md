@@ -14,4 +14,4 @@ Taking the popular example of Prof.Bertlmann's mismatched socks to illustrate qu
 
 # Quantum Entanglement:
 Quantum entanglement is one of the most profound yet confusing aspects of quantum mechanics. When two particles are in entangled quantum states, measuring a property of one of the particles reveals information about the other particle without even needing to check. 
-
+![Entangled socks](URL-to-your-image)
