@@ -30,6 +30,7 @@ If I have a pair of socks- one left and one right and I send my friend Bob a soc
 * 3 pairs each of red- and yellow-colored socks rotating consecutively around the earth at a speed matching the time taken to run the **teleportation circuit**. 
 
 By building a proper circuit and playing the game well, you can help Alice send a message to Bob maintaining quantum entanglement. And boom- now you too understand quantum circuits, quantum entanglement and essentially how the quantum world works. Maybe we’re one step closer to flipping the saying from **“It’s simple, it’s not quantum mechanics”** to **“It’s as simple as quantum mechanics”**.
+
 ## How to Play:
 ### Objective:
 The primary objective is to help Alice send her message to Bob by selecting the appropriate quantum circuit (lines), adjusting angles and distances, and choosing the correct quantum gate to maintain the entanglement. Success is measured by delivering the message without disruption.
@@ -55,52 +56,52 @@ The primary objective is to help Alice send her message to Bob by selecting the 
  
 
 ## Gameplay Mechanism:
-1.**Message (Sock)**: Alice's message is represented by a colored sock (red or yellow). The color of the sock determines the type of quantum gate that should be selected to ensure entanglement.
+1. **Message (Sock)**: Alice's message is represented by a colored sock (red or yellow). The color of the sock determines the type of quantum gate that should be selected to ensure entanglement.
 
-2.**Quantum Gates**: The game features various quantum gates like the H Gate, X Gate, T Gate, etc. These gates modify how the message interacts with the circuit. Choosing the wrong gate will disrupt the entanglement, causing the message to fail.
+2. **Quantum Gates**: The game features various quantum gates like the H Gate, X Gate, T Gate, etc. These gates modify how the message interacts with the circuit. Choosing the wrong gate will disrupt the entanglement, causing the message to fail.
 
-3.**Globe Movement**: The game environment includes a globe, and the message travels around its surface based on the line, angle, and distance inputs. The player must ensure that Alice's message stays within the globe’s boundaries.
+3. **Globe Movement**: The game environment includes a globe, and the message travels around its surface based on the line, angle, and distance inputs. The player must ensure that Alice's message stays within the globe’s boundaries.
 
-4.**Quantum Entanglement**: Success is determined by whether or not Alice’s message remains entangled as it travels to Bob. If the message successfully reaches Bob while maintaining its quantum properties, the player wins the round.
+4. **Quantum Entanglement**: Success is determined by whether or not Alice’s message remains entangled as it travels to Bob. If the message successfully reaches Bob while maintaining its quantum properties, the player wins the round.
 
 ## Step-by-Step Guide:
-1.**Launch the Game**: Start the game by running the quantum_circuits.py script.
+1. **Launch the Game**: Start the game by running the quantum_circuits.py script.
 
-2.**Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
+2. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
 
-3.**Select a Line**: Choose a line for Alice's message to travel by typing the line number or clicking on it. There are 9 lines available to choose from.
+3. **Select a Line**: Choose a line for Alice's message to travel by typing the line number or clicking on it. There are 9 lines available to choose from.
 
-4.**Input Angle and Distance**: After selecting the line, enter the angle (θ) and distance that will guide the message to Bob.
+4. **Input Angle and Distance**: After selecting the line, enter the angle (θ) and distance that will guide the message to Bob.
 
-5.**Hit Enter**: Once all inputs are ready, hit the enter key on the keyboard to send the message from Alice to Bob.
+5. **Hit Enter**: Once all inputs are ready, hit the enter key on the keyboard to send the message from Alice to Bob.
 
-6.**Observe the Result**: Watch as the message travels along the line. If it successfully reaches Bob, you will see a "Quantum Entanglement Success" message. If it fails, you will need to try again with different inputs.
+6. **Observe the Result**: Watch as the message travels along the line. If it successfully reaches Bob, you will see a "Quantum Entanglement Success" message. If it fails, you will need to try again with different inputs.
 
  ![Distance Validity](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Distance%20Validity.png)
 
  ![Game Scene](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/game%20scene.png)
 
 ## Game Strategy and Tips:
-1.**Gate Selection**: Pay close attention to the color of Alice's sock (message). The correct quantum gate is crucial to maintaining the message's entanglement.
+1. **Gate Selection**: Pay close attention to the color of Alice's sock (message). The correct quantum gate is crucial to maintaining the message's entanglement.
 
-2.**Experiment with Angles and Distances**: Some levels may require trial and error. Adjusting angles and distances slightly can make all the difference in whether the message reaches Bob.
+2. **Experiment with Angles and Distances**: Some levels may require trial and error. Adjusting angles and distances slightly can make all the difference in whether the message reaches Bob.
 
-3.**Stay Within the Globe**: Ensure that your message travels along the globe’s surface. Going outside the globe will result in a lost message and a failed circuit.
+3. **Stay Within the Globe**: Ensure that your message travels along the globe’s surface. Going outside the globe will result in a lost message and a failed circuit.
 
 ![Entanglement Success](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entanglement_success.png)
 
 
 ## How Do I Win: 
-1.**Perfectly Match the Socks**: Carefully observe the color of the socks passing by and initiate the teleportation only when Bob is correctly positioned with a sock of the same color. The game is won when Alice’s message successfully reaches Bob with a matching sock, maintaining quantum entanglement. A message stating "Quantum Entanglement Success!" will confirm your victory.
+1. **Perfectly Match the Socks**: Carefully observe the color of the socks passing by and initiate the teleportation only when Bob is correctly positioned with a sock of the same color. The game is won when Alice’s message successfully reaches Bob with a matching sock, maintaining quantum entanglement. A message stating "Quantum Entanglement Success!" will confirm your victory.
 
-2.**Master Entanglement**: To ensure a flawless transfer, precisely manage the entanglement swapping process by strategically selecting the optimal path for message transmission. Your choices will directly impact the success of the transfer.
+2. **Master Entanglement**: To ensure a flawless transfer, precisely manage the entanglement swapping process by strategically selecting the optimal path for message transmission. Your choices will directly impact the success of the transfer.
 
-3.**Maximize Your Reach**: For higher scores, focus on maximizing the distance between Alice and Bob during each successful information transfer. The further apart they are when the message is successfully delivered, the more points you will earn.
+3. **Maximize Your Reach**: For higher scores, focus on maximizing the distance between Alice and Bob during each successful information transfer. The further apart they are when the message is successfully delivered, the more points you will earn.
 
 ## Scoring:
-1.**Earn Points**: Points are awarded based on the distance over which you successfully transfer quantum information. Longer distances result in higher scores.
+1. **Earn Points**: Points are awarded based on the distance over which you successfully transfer quantum information. Longer distances result in higher scores.
 
-2.**Detect Hotspots**: Each successful teleportation action adds a point to your "Quantum Internet Hotspot" list. Accumulate enough hotspots to dominate the game and achieve ultimate victory.
+2. **Detect Hotspots**: Each successful teleportation action adds a point to your "Quantum Internet Hotspot" list. Accumulate enough hotspots to dominate the game and achieve ultimate victory.
 
 ## Future Scope:
 In subsequent versions of the game, we aim to enhance gameplay by simulating quantum communication through the teleporter and implementing an entanglement swapping mechanism. This will be processed in real-time through circuit runtime, allowing players to explore complex concepts in quantum physics while enjoying an engaging and interactive experience.
@@ -109,13 +110,13 @@ In subsequent versions of the game, we aim to enhance gameplay by simulating qua
 This research project has followed open science and open research principles to ensure that knowledge and resources are accessible to the broader community. The contributors involved in various aspects of the project include:
 
 * **Game Concept Designer**:
-[Suma Mallapragada]
+Suma Mallapragada
 
 * **Developers**:
-[Samiksha Mekala], [Supriya Nalla], [Ananya Sangani]
+Samiksha Mekala, Supriya Nalla, Ananya Sangani
 
 * **Documentation and Writing**:
-[Nikhita Makam], [Samiksha Mekala], [Ananya Sangani]
+Nikhita Makam, Samiksha Mekala, Ananya Sangani
 
 ### Acknowledgements
 
