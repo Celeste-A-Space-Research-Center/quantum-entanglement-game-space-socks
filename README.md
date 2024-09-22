@@ -38,7 +38,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 * **Build your Teleportation Circuit**: Teleport your message with the colour of sock that you intend to let Bob know about, as shown in the demo video. Hit on the green **Run** button, and voila, you can proceed once you succeed. This is the start of your quantum communication action.
 * **Select your Line**: Successful building of the quantum circuit will activate the sock you have chosen, and also the **Line**,**Angle** and **Distance** boxes.Choose the line that Alice's message will travel along. You can select a line either by typing the line number (e.g., Line 1, Line 2) or clicking on the line directly using the mouse.
 
-![Line Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/The%20first%20scene.png)
+![Line Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Line%20activation.png)
 
 * **Input the angle**: After selecting a line, input the angle (θ) at which the message should travel. The angle is essential in determining the trajectory. You can enter the angle using the keyboard, or adjust using the on-screen controls.
 
