@@ -65,7 +65,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 4. **Quantum Entanglement**: Success is determined by whether or not Alice’s message remains entangled as it travels to Bob. If the message successfully reaches Bob while maintaining its quantum properties, the player wins the round.
 
 ## Step-by-Step Guide:
-1. **Launch the Game**: Download the zip file, Quantum Entanglement Game.zip from this repository. . Start the game by running the main.py script.
+1. **Launch the Game**: Download the zip file, [Quantum-Entanglement-Game.zip]() from this repository. . Start the game by running the main.py script.
 
 2. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
 
@@ -84,7 +84,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 ## Demo of the Game
 
-![Demo Video](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Demo%20of%20the%20game%20(1)%20(1).mp4)
+[Demo Video](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Demo%20of%20the%20game%20(1)%20(1).mp4)
 
 
 ## Game Strategy and Tips:
