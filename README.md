@@ -16,29 +16,33 @@ Taking the popular example of Prof.Bertlmann's mismatched socks to illustrate qu
 Quantum entanglement is one of the most profound yet confusing aspects of quantum mechanics. When two particles are in entangled quantum states, measuring a property of one of the particles reveals information about the other particle without even needing to check. 
 
 
+
 ![Entangled socks](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entangled_socks.jpg)
+
 
 If I have a pair of socks- one left and one right and I send my friend Bob a sock, we can call this pair of socks entangled. Without checking what sock I have, if Bob checks the sock I sent him- he automatically knows about my sock. If Bob received a left sock, I must have a right sock and vice versa.
 
 ## The game involves:
 
-* The transmitter (Alice) placed at a stationary point called the point of reference to understand relative speed of satellite rotation and entanglement.
-* The teleporter (A satellite) made to rotate around the earth at a speed that equals the optimum time taken to run a quantum teleportation circuit on the accessible quantum processors and simulators (viz, IBM's qasm).
-* The receiver (Bob) made to rotate around the earth in a spaceship around the earth at a speed that equals the optimum time taken to run a quantum teleportation circuit.
-* 3 pairs each of red- and yellow-colored socks rotating consecutively around the earth at a speed matching the time taken to run the teleportation circuit 
+* The **transmitter** (Alice) placed at a stationary point called the point of reference to understand relative speed of satellite rotation and entanglement.
+* The **teleporter** (A satellite) made to rotate around the earth at a speed that equals the optimum time taken to run a quantum **teleportation circuit** on the accessible quantum processors and simulators (viz, IBM's qasm).
+* The **receiver** (Bob) made to rotate around the earth in a spaceship around the earth at a speed that equals the optimum time taken to run a quantum teleportation circuit.
+* 3 pairs each of red- and yellow-colored socks rotating consecutively around the earth at a speed matching the time taken to run the **teleportation circuit**. 
 
 By building a proper circuit and playing the game well, you can help Alice send a message to Bob maintaining quantum entanglement. And boom- now you too understand quantum circuits, quantum entanglement and essentially how the quantum world works. Maybe we’re one step closer to flipping the saying from **“It’s simple, it’s not quantum mechanics”** to **“It’s as simple as quantum mechanics”**.
 ## How to Play:
-#### Objective:
+### Objective:
 The primary objective is to help Alice send her message to Bob by selecting the appropriate quantum circuit (lines), adjusting angles and distances, and choosing the correct quantum gate to maintain the entanglement. Success is measured by delivering the message without disruption.
 
 ![The First Screen](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/The%20first%20scene.png)
 
-#### Controls:
+
+### Controls:
 * **Build your Teleportation Circuit**: Teleport your message with the colour of sock that you intend to let Bob know about, as shown in the demo video. Hit on the green **Run** button, and voila, you can proceed once you succeed. This is the start of your quantum communication action.
-* **Select your Line**: Successful building of the quantum circuit will activate the sock you have chosen, and also the **Line**,**Angle** and **Distance** boxes.Choose the line that Alice's message will travel along. You can select a line either by typing the line number (e.g., Line 1, Line 2) or clicking on the line directly using the mouse.
+* **Select your Line**: Successful building of the quantum circuit will activate the sock you have chosen, and also the **Line** , **Angle** and **Distance** boxes.Choose the line that Alice's message will travel along. You can select a line either by typing the line number (e.g., Line 1, Line 2) or clicking on the line directly using the mouse.
 
 ![Line Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Line%20activation.png)
+
 
 * **Input the angle**: After selecting a line, input the angle (θ) at which the message should travel. The angle is essential in determining the trajectory. You can enter the angle using the keyboard, or adjust using the on-screen controls.
 
@@ -48,6 +52,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 * **Input the distance**: After the angle is set, input the distance the message will travel along the line.Similar to the angle, input this value via the keyboard or on-screen controls.
 
  ![Distance Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Distance%20Activation.png)
+ 
 
 ## Gameplay Mechanism:
 1.**Message (Sock)**: Alice's message is represented by a colored sock (red or yellow). The color of the sock determines the type of quantum gate that should be selected to ensure entanglement.
@@ -84,6 +89,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 ![Entanglement Success](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entanglement_success.png)
 
+
 ## How Do I Win: 
 1.**Perfectly Match the Socks**: Carefully observe the color of the socks passing by and initiate the teleportation only when Bob is correctly positioned with a sock of the same color. The game is won when Alice’s message successfully reaches Bob with a matching sock, maintaining quantum entanglement. A message stating "Quantum Entanglement Success!" will confirm your victory.
 
@@ -95,3 +101,22 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 1.**Earn Points**: Points are awarded based on the distance over which you successfully transfer quantum information. Longer distances result in higher scores.
 
 2.**Detect Hotspots**: Each successful teleportation action adds a point to your "Quantum Internet Hotspot" list. Accumulate enough hotspots to dominate the game and achieve ultimate victory.
+
+## Future Scope:
+In subsequent versions of the game, we aim to enhance gameplay by simulating quantum communication through the teleporter and implementing an entanglement swapping mechanism. This will be processed in real-time through circuit runtime, allowing players to explore complex concepts in quantum physics while enjoying an engaging and interactive experience.
+
+## Contributors:
+This research project has followed open science and open research principles to ensure that knowledge and resources are accessible to the broader community. The contributors involved in various aspects of the project include:
+
+* **Game Concept Designer**:
+[Suma Mallapragada]
+
+* **Developers**:
+[Samiksha Mekala], [Supriya Nalla], [Ananya Sangani]
+
+* **Documentation and Writing**:
+[Nikhita Makam], [Samiksha Mekala], [Ananya Sangani]
+
+### Acknowledgements
+
+This research activity was undertaken under **Celeste GNITS**, a space research center at **G. Narayanamma Institute of Technology and Science, Hyderabad**. We extend our thanks to the team at Celeste GNITS for their valuable support.We also acknowledge the faculty and administration of G. Narayanamma Institute of Technology and Science, Hyderabad for their valuable contributions in providing both research insights and essential resources.
