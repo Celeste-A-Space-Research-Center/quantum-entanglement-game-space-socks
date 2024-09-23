@@ -90,7 +90,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 [Demo Video](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Demo%20of%20the%20game%20(1)%20(1).mp4)
 
-[Demo Seen](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Demo%20of%20the%20game.mp4)
+[Demo Seen]()
 
 
 ## Game Strategy and Tips:
