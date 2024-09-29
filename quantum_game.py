@@ -124,27 +124,27 @@ def load(imagename):
     # C:\pygame_vs_code\gate_imgs\if_info.png
     # C:\pygame_vs_code\gate_imgs\zgate.png
     # imagename=r"C:\pygame_vs_code\gate_imgs\" + str(imagename) + ".png"
-    imagename = ".\\gate_imgs\\" + str(imagename) + ".png"
+    imagename = "..\\quantum-entanglement-game-space-socks-main\\gate_imgs\\" + str(imagename) + ".png"
     image = pygame.image.load(imagename)
     image = pygame.transform.scale(image, (30, 30))
     return image
 
-back=pygame.image.load(r".\assets\background-pic.jpg")
+back=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\assets\background-pic.jpg")
 
-globe=pygame.image.load(r".\pics\globe-pic.png")
+globe=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\pics\globe-pic.png")
 globe = pygame.transform.scale(globe, (170, 170))
 
-alice=pygame.image.load(r".\pics\alice-pic.png")
+alice=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\pics\alice-pic.png")
 alice = pygame.transform.scale(alice, (120, 60))
 # Initial alpha value
 a = 250
 clock = pygame.time.Clock()
 
-satellite=pygame.image.load(r".\pics\satellite-pic.png")
+satellite=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\pics\satellite-pic.png")
 satellite = pygame.transform.scale(satellite, (70, 70))
 
 
-redsock=pygame.image.load(r".\pics\redsock-pic.png")
+redsock=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\pics\redsock-pic.png")
 redsock = pygame.transform.scale(redsock, (80, 100))
 
 # redsock2=pygame.image.load(r"C:\pygame_vs_code\pics\redsock-pic.png")
@@ -159,11 +159,11 @@ yellowsock = pygame.transform.scale(yellowsock, (80, 100))
 yellowsock2 = pygame.transform.scale(yellowsock, (80, 100))
 yellowsockMsg = pygame.transform.scale(yellowsock, (17, 20))
 
-sship=pygame.image.load(r".\pics\satellite-pic.png")
+sship=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\pics\satellite-pic.png")
 sship = pygame.transform.scale(sship, (70, 70))
 
 #Game logo
-quatum_quest_logo=pygame.image.load(r".\pics\satellite-pic.png")
+quatum_quest_logo=pygame.image.load(r"..\quantum-entanglement-game-space-socks-main\pics\satellite-pic.png")
 
 #info_mark
 # info_mark=pygame.image.load(r"C:\pygame_vs_code\info_mark.png")
