@@ -69,7 +69,11 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 4. **Quantum Entanglement**: Success is determined by whether or not Alice’s message remains entangled as it travels to Bob. If the message successfully reaches Bob while maintaining its quantum properties, the player wins the round.
 
 ## Step-by-Step Guide:
-1. **Launch the Game**: Download the zip file, [Quantum-Entanglement-Game-main.zip](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Quantum-Entaglement-Game-main.zip) from this repository. Start the game by running the main.py script.
+1. **Launch the Game**:
+
+****To run it on your personal computer****:Clone this github repository to Visual Studio Code. Make sure you have python setup on VS Code. Install the pygame package with *pip install pygame* on the VS Code terminal that appears when you open the folder that is created as a result of cloning. Start the game by running the quantum_game.py script.
+
+****To access it online****:Follow the link [Pygame Window Online](https://celeste-a-space-research-center.github.io/quantum-entanglement-game-space-socks/) to launch the game.
 
 2. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
 
