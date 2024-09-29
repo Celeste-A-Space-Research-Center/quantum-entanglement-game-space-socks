@@ -17,7 +17,7 @@ Quantum entanglement is one of the most profound yet confusing aspects of quantu
 
 
 
-![Entangled socks](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entangled_socks.jpg)
+![Entangled socks](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/entangled_socks.jpg)
 
 
 If I have a pair of socks- one left and one right and I send my friend Bob a sock, we can call this pair of socks entangled. Without checking what sock I have, if Bob checks the sock I sent him- he automatically knows about my sock. If Bob received a left sock, I must have a right sock and vice versa.
@@ -38,7 +38,7 @@ By building a proper circuit and playing the game well, you can help Alice send 
 ### Objective:
 The primary objective is to help Alice send her message to Bob by selecting the appropriate quantum circuit (lines), adjusting angles and distances, and choosing the correct quantum gate to maintain the entanglement. Success is measured by delivering the message without disruption.
 
-![The First Screen](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/The%20first%20scene.png)
+![The First Screen](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/The%20first%20scene.png)
 
 
 ### Controls:
@@ -51,12 +51,12 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 * **Input the angle**: After selecting a line, input the angle (θ) at which the message should travel. The angle is essential in determining the trajectory. You can enter the angle using the keyboard, or adjust using the on-screen controls.
 
-![Angle Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Angle%20activation.png)
+![Angle Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/Angle%20activation.png)
 
 
 * **Input the distance**: After the angle is set, input the distance the message will travel along the line.Similar to the angle, input this value via the keyboard or on-screen controls.
 
- ![Distance Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Distance%20Activation.png)
+ ![Distance Activation](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/Distance%20Activation.png)
  
 
 ## Gameplay Mechanism:
@@ -81,16 +81,16 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 6. **Observe the Result**: Watch as the message travels along the line. If it successfully reaches Bob, you will see a "Quantum Entanglement Success" message. If it fails, you will need to try again with different inputs.
 
- ![Distance Validity](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Distance%20Validity.png)
+ ![Distance Validity](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/Distance%20Validity.png)
 
- ![Game Scene](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/game%20scene.png)
+ ![Game Scene](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/game%20scene.png)
 
 
 ## Demo of the Game
 
-[Demo Video .mp4 with narration](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Demo%20of%20the%20game%20(1)%20(1).mp4)
+[Demo Video .mp4 with narration](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/Demo%20of%20the%20game.mp4)
 
-![Demo Gif](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Demoofthegame.gif)
+![Demo Gif](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/Demoofthegame.gif)
 
 
 ## Game Strategy and Tips:
@@ -100,7 +100,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
 3. **Stay Within the Globe**: Ensure that your message travels along the globe’s surface. Going outside the globe will result in a lost message and a failed circuit.
 
-![Entanglement Success](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/entanglement_success.png)
+![Entanglement Success](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/entanglement_success.png)
 
 
 ## How Do I Win: 
