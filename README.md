@@ -22,6 +22,15 @@ Quantum entanglement is one of the most profound yet confusing aspects of quantu
 
 If I have a pair of socks- one left and one right and I send my friend Bob a sock, we can call this pair of socks entangled. Without checking what sock I have, if Bob checks the sock I sent him- he automatically knows about my sock. If Bob received a left sock, I must have a right sock and vice versa.
 
+## Requirements:
+
+Your system has to be set up to contain the following to play the game.
+
+* Terminal / Command Prompt.
+* Python version >=3.0.0
+* Pygame
+* Your favourite code editor /IDE (Visual Studio Code / Jupiter Notebook/ PyCharm) can come in handy.
+
 ## The game involves:
 
 * The **transmitter** (Alice) placed at a stationary point called the point of reference to understand relative speed of satellite rotation and entanglement.
@@ -75,18 +84,19 @@ The primary objective is to help Alice send her message to Bob by selecting the 
    package with *pip install pygame* on the VS Code terminal that appears when you open the folder that is created as a result of cloning. Start the game by running 
    the quantum_game.py script.
 
-   ****Easier way****: You can go for *pip install "git+https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks.git"*.
+   ****Easier way****: To run the game with command prompt, you can go for
+*pip install "git+https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks.git"*. The requirement is to have python and pygame installed.
   
 
-3. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
+2. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
 
-4. **Select a Line**: Choose a line for Alice's message to travel by typing the line number or clicking on it. There are 9 lines available to choose from.
+3. **Select a Line**: Choose a line for Alice's message to travel by typing the line number or clicking on it. There are 9 lines available to choose from.
 
-5. **Input Angle and Distance**: After selecting the line, enter the angle (θ) and distance that will guide the message to Bob.
+4. **Input Angle and Distance**: After selecting the line, enter the angle (θ) and distance that will guide the message to Bob.
 
-6. **Hit Enter**: Once all inputs are ready, hit the enter key on the keyboard to send the message from Alice to Bob.
+5. **Hit Enter**: Once all inputs are ready, hit the enter key on the keyboard to send the message from Alice to Bob.
 
-7. **Observe the Result**: Watch as the message travels along the line. If it successfully reaches Bob, you will see a "Quantum Entanglement Success" message. If it fails, you will need to try again with different inputs.
+6. **Observe the Result**: Watch as the message travels along the line. If it successfully reaches Bob, you will see a "Quantum Entanglement Success" message. If it fails, you will need to try again with different inputs.
 
  ![Distance Validity](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/assets/Distance%20Validity.png)
 
