@@ -86,9 +86,9 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
    ****Easier way****: To run the game with command prompt, you can go for
    
-*pip install "git+https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks.git"*.
+  *pip install   "git+https://github.com/Celeste-A-  Space-Research-Center/quantum-entanglement-game-space-socks.git"*.
 
-The requirement is to have python and pygame installed.
+  The requirement is to have python     and pygame installed.
   
 
 2. **Drag the Gates on to the Coloured Line**:Select the quantum gate that corresponds to the message's color. Choose wisely, as the wrong gate will disrupt the quantum entanglement.Build the teleportation circuit and hit on run.You can proceed to the entanglement swapping operations after building the teleportation circuit successfully.
