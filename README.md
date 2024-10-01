@@ -86,7 +86,7 @@ The primary objective is to help Alice send her message to Bob by selecting the 
 
    ****Easier way****: To run the game with command prompt, you can go for
    
-  *pip install   "git+https://github.com/Celeste-A-  Space-Research-Center/quantum-entanglement-game-space-socks.git"*.
+  *pip install   "git+https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks.git"*.
 
   The requirement is to have python     and pygame installed.
   
