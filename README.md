@@ -22,7 +22,7 @@ Quantum entanglement is one of the most profound yet confusing aspects of quantu
 
 If I have a pair of socks- one left and one right and I send my friend Bob a sock, we can call this pair of socks entangled. Without checking what sock I have, if Bob checks the sock I sent him- he automatically knows about my sock. If Bob received a left sock, I must have a right sock and vice versa.
 
-## Who it is for, and why we think you should play the game
+## Who it is for, and why we think you should play the game:
 
 Our quantum entanglement game is designed for curious learners, tech enthusiasts, and anyone interested in quantum mechanics and its real-world applications. Whether you are new to the subject or a seasoned science enthusiast, the game provides an engaging way to explore ****quantum teleportation****, ****entanglement swapping****, and the emerging ****quantum internet****. It’s also ideal for those who want to grasp future technologies in an intuitive and interactive manner.
 
