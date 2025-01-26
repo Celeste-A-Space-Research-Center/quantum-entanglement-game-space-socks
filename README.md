@@ -3,7 +3,7 @@
 ## Genre: Educational
 
 ## Defensive Publication Statement
-This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum computing concepts in an engaging way. The project is **publicly disclosed** as a **defensive publication** to establish the date of invention. The idea was publicly made available on **January 26, 2025** to prevent future patent claims on the innovation. This repository is licensed under the [MIT License](LICENSE).
+This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum computing concepts in an engaging way. The project is **publicly disclosed** as a **defensive publication** to establish the date of invention. The idea was publicly made available on **January 26, 2025** to prevent future patent claims on the innovation. This repository is licensed under the [Apache 2.0 License](LICENSE).
 
 
 ## Description:
