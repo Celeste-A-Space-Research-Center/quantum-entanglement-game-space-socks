@@ -56,4 +56,4 @@ Thank you for helping us protect the open nature of the **Space Socks Game** and
    ```markdown
    ## Defensive Publication
 
-   This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see Defensive Publication.md .
+   This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Defensive%20Publication.md.
