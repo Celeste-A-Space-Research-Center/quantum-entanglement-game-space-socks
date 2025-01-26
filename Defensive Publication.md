@@ -56,4 +56,4 @@ Thank you for helping us protect the open nature of the **Space Socks Game** and
    ```markdown
    ## Defensive Publication
 
-   This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see .
+   This project is published as part of a **defensive publication** to prevent patent claims on its ideas and concepts. For more information, please see Defensive Publication.md .
