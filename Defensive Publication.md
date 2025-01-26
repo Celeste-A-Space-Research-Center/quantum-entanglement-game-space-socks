@@ -7,7 +7,7 @@
 By contributing to this project, you acknowledge that you are making your contributions available under the **Apache 2.0 License** and agree that the work cannot be patented by any third party.
 
 ## How the DOI Serves as Proof of Prior Art
-The DOI [Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks: Space Socks: Quantum Entanglement Simulation – Version 1.0](https://doi.org/10.5281/zenodo.14741109) provides a permanent, immutable reference to the work, timestamping its availability. This serves as the primary means of verifying that the concepts and methods described herein were made publicly available at the time of release.
+The DOI [https://doi.org/10.5281/zenodo.14741109](https://doi.org/10.5281/zenodo.14741109) provides a permanent, immutable reference to the work, timestamping its availability. This serves as the primary means of verifying that the concepts and methods described herein were made publicly available at the time of release.
 
 By citing this DOI in any future work, you ensure that the details of this defensive publication are considered part of the public domain, preventing anyone from claiming novelty or patenting these ideas in the future.
 
