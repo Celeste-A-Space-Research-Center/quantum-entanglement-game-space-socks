@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work in your research, please cite it as below:"
+title: "Defensive Publication of Space Scoks: A Quantum Entanglement Game"
+authors:
+  - family-names: Mallapragada, Mekala, Sangani,Nalla, Makam
+    given-names: Suma, Samiksha, Ananya, Supriya, Nikhita
+    affiliation: Celeste GNITS
+date-released: 2024-10-07
+doi: "10.5281/zenodo.14741109"
+version: "v1.0.0"
+url: "https://zenodo.org/record/14741109"
+repository-code: "https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks"
+abstract: 
+  This repository discloses the methods, algorithms, and concepts of Space Socks: A Quantum Entanglement Game.
+  It was published as a defensive publication to establish prior art and timestamp the
+  innovative ideas presented. The work aims to support open science and prevent
+  patenting of fundamental concepts in quantum simulation and gamified education and 
+  innovative teaching methods remain accessible to the broader scientific and educational communities.
