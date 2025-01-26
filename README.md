@@ -3,7 +3,10 @@
 ## Genre: Educational
 
 ## Defensive Publication Statement
-This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum communication in an engaging way. The project is **publicly disclosed** as a **[Defensive publication](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Defensive%20Publication.md)** to establish the date of invention. The idea was publicly made available on **October 7, 2024** to prevent future patent claims on the innovation.
+This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum communication in an engaging way. The project is **publicly disclosed** as a **[Defensive publication](https://github.com/Celeste-A-Space-Research-Center/quantum-entanglement-game-space-socks/blob/main/Defensive%20Publication.md)** to establish the date of invention. The idea was publicly made available on **January 26, 2025** to prevent future patent claims on the innovation.
+
+**DOI:**
+[Link to Zenodo Record](https://doi.org/10.5281/zenodo.14741109)
 
 By publishing this repository publicly, we are preventing the possibility of patent claims on the unique ideas and methods involved. As a defensive publication, this work is being shared with the public to promote open collaboration and prevent others from claiming patent rights on the concepts described here.
 
