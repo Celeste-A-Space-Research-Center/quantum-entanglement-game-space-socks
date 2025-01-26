@@ -13,7 +13,10 @@ By citing this DOI in any future work, you ensure that the details of this defen
 
 ## Purpose of Defensive Publication
 
-The primary goal of this defensive publication is to prevent the patenting of the code, concepts, and algorithms contained within this repository by third parties. By openly publishing the source code and related documentation, we make the work available to the public, effectively limiting the possibility of any entity attempting to claim exclusive patent rights over the methods described here.
+The primary goal of this defensive publication is to prevent the patenting of the code, concepts, and algorithms contained within this repository by third parties.
+- By openly publishing the source code and related documentation, we make the work available to the public, effectively limiting the possibility of any entity attempting to claim exclusive patent rights over the methods described here.
+- By publicly releasing the details of our work with a DOI, we ensure that these innovations are not patentable by others, protecting our contribution to the scientific community and preventing patent monopolies.
+- The DOI and public release via Zenodo ensure that our work is part of the open academic record and can be referenced by future research.
 
 The open nature of this project means that the concepts can be freely used, modified, and distributed by anyone. The **Apache 2.0 License** ensures that all contributions to this project are legally free and can be used by others, while also providing a grant for patent usage.
 
