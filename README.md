@@ -1,6 +1,11 @@
 # Quantum Entanglement Game
 ## Game Name: Space Socks
 ## Genre: Educational
+
+## Defensive Publication Statement
+This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum computing concepts in an engaging way. The project is **publicly disclosed** as a **defensive publication** to establish the date of invention. The idea was publicly made available on **January 26, 2025** to prevent future patent claims on the innovation. This repository is licensed under the [MIT License](LICENSE).
+
+
 ## Description:
 Quantum Computing is the future. However, like the popular phrase goes “It’s simple, it’s not quantum mechanics”- there is a misconception that the quantum world is too complicated for everyone to understand. 
 
