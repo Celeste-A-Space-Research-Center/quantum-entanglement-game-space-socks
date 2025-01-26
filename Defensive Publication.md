@@ -37,7 +37,7 @@ The **defensive publication** status is achieved by the following:
 
 All contributors to this repository must sign a **Contributor License Agreement (CLA)** before submitting any pull requests. The CLA ensures that contributors are aware of the defensive publication and agree to the licensing terms under which their contributions will be made available.
 
-Please read the full **CLA** [here](CLA.txt).
+Please read the full **CLA** [here](CLA.md).
 
 ## Contact Information
 
