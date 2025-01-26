@@ -3,7 +3,7 @@
 ## Genre: Educational
 
 ## Defensive Publication Statement
-This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum communication in an engaging way. The project is **publicly disclosed** as a **defensive publication** to establish the date of invention. The idea was publicly made available on **October 7, 2024** to prevent future patent claims on the innovation.
+This repository contains the complete implementation of **Space Socks**, a game designed to demonstrate quantum communication in an engaging way. The project is **publicly disclosed** as a **defensive publication()** to establish the date of invention. The idea was publicly made available on **October 7, 2024** to prevent future patent claims on the innovation.
 
 By publishing this repository publicly, we are preventing the possibility of patent claims on the unique ideas and methods involved. As a defensive publication, this work is being shared with the public to promote open collaboration and prevent others from claiming patent rights on the concepts described here.
 
@@ -13,11 +13,9 @@ This repository is licensed under the **[Apache 2.0 License](LICENSE)**, which a
 
 However, by contributing to or using this repository, you acknowledge that any patents necessary for the use of the code are granted to you under the terms of the Apache 2.0 License. The purpose of this project being published publicly is to ensure that the described concepts remain in the public domain and cannot be patented by others.
 
-## Contribution & Licensing
-Any modifications or contributions made to this repository are also covered by the Apache 2.0 License, and contributors are encouraged to share their improvements under the same open-source license. The intention behind this is to maintain the openness of the project and prevent any patent claims on the underlying ideas.
+## Contributor License Agreement (CLA)
 
-For any patents or patent rights relevant to this repository, contributors explicitly grant a license to use those patents for the benefit of the community.
-
+By contributing to this project, you agree to the terms outlined in our [Contributor License Agreement (CLA)](CLA.md).
 
 ## Description:
 Quantum Computing is the future. However, like the popular phrase goes “It’s simple, it’s not quantum mechanics”- there is a misconception that the quantum world is too complicated for everyone to understand. 
